@@ -13,4 +13,4 @@
 
 4. Setting the git config to use private repository.
     - set the personal access token.
-        - `git config --add --local url."https://<Personal access token>:x-oauth-basic@github.com/".insteadOf "https:github.com/"`
+        - `git config --add --local url."https://<Personal access token>:x-oauth-basic@github.com/".insteadOf "https://github.com/"`
